@@ -1,7 +1,7 @@
 # Sample Carrier
 
 <p align="center">
-<img src="../images/SampleCarrier15Photo.jpg" width="400" align = "center">
+<img src="/images/SampleCarrier15Photo.jpg" width="400" align = "center">
 </p>
 
 In this folder you will find the files for a sample carrier. 
